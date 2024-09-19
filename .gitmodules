@@ -1,0 +1,8 @@
+[submodule "Part1"]
+	path = Part1
+	url = https://github.com/snjvn/Group01_Lab06_branches.git
+	branch = Group01_Part01
+[submodule "Part2"]
+	path = Part2
+	url = https://github.com/snjvn/Group01_Lab06_branches.git
+	branch = Group01_Part02
